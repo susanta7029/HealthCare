@@ -38,7 +38,7 @@ This is a Django-based healthcare project designed to manage patient-doctor mapp
    - Create a database named `healthcare_db`.
    - Update the `DATABASE_URL` in the `.env` file with your PostgreSQL credentials, e.g.:
      ```
-     DATABASE_URL=postgres://user:password@localhost:5432/healthcare_db
+     DATABASE_URL=postgres://postgres:Susanta7029%40@localhost:5432/healthcare_db
      ```
 6. **Apply migrations**:
    ```bash
@@ -93,6 +93,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any inquiries or support, please contact:
-- **Name**: Susan
-- **Email**: susan@example.com
+- **Name**: Susanta
+- **Email**: susanta7029@example.com
 - **GitHub**: [susanta7029](https://github.com/susanta7029)
