@@ -94,5 +94,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 For any inquiries or support, please contact:
 - **Name**: Susanta
-- **Email**: susanta7029@example.com
+- **Email**: susantagope28@gmail.com
 - **GitHub**: [susanta7029](https://github.com/susanta7029)
